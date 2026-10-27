@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password_hash": "DEMO_HASH_ADMIN",
+    "role": "admin",
+    "active": true
+  },
+  {
+    "id": 2,
+    "username": "samy",
+    "password_hash": "DEMO_HASH_SAMY",
+    "role": "user",
+    "active": true
+  },
+  {
+    "id": 3,
+    "username": "amine",
+    "password_hash": "DEMO_HASH_AMINE",
+    "role": "user",
+    "active": true
+  },
+  {
+    "id": 4,
+    "username": "test_user",
+    "password_hash": "DEMO_HASH_TEST",
+    "role": "user",
+    "active": false
+  }
+]
